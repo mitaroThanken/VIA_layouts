@@ -2,17 +2,17 @@
   "name": "attack25",
   "vendorProductId": 4276986121,
   "macros": [
-    "{KC_MHEN}{KC_P0}",
-    "{KC_MHEN}{KC_P1}",
-    "{KC_MHEN}{KC_P2}",
-    "{KC_MHEN}{KC_P3}",
-    "{KC_MHEN}{KC_P4}",
-    "{KC_MHEN}{KC_P5}",
-    "{KC_MHEN}{KC_P6}",
-    "{KC_MHEN}{KC_P7}",
-    "{KC_MHEN}{KC_P8}",
-    "{KC_MHEN}{KC_P9}",
-    "",
+    "{KC_F24}{KC_0}",
+    "{KC_F24}{KC_1}",
+    "{KC_F24}{KC_2}",
+    "{KC_F24}{KC_3}",
+    "{KC_F24}{KC_4}",
+    "{KC_F24}{KC_5}",
+    "{KC_F24}{KC_6}",
+    "{KC_F24}{KC_7}",
+    "{KC_F24}{KC_8}",
+    "{KC_F24}{KC_9}",
+    "{KC_LSFT,KC_TAB}",
     "",
     "",
     "",
@@ -41,7 +41,7 @@
       "MACRO02",
       "MACRO03",
       "KC_END",
-      "KC_LSFT",
+      "MO(1)",
       "MACRO00",
       "KC_COMM",
       "KC_DOT",
@@ -62,7 +62,7 @@
       "KC_LEFT",
       "KC_NO",
       "KC_RGHT",
-      "KC_TRNS",
+      "MACRO10",
       "KC_TRNS",
       "KC_END",
       "KC_DOWN",
@@ -75,7 +75,7 @@
       "KC_TRNS"
     ],
     [
-      "KC_TRNS",
+      "KC_NO",
       "KC_F10",
       "KC_F11",
       "KC_F12",
@@ -102,7 +102,7 @@
       "KC_TRNS"
     ],
     [
-      "RGB_TOG",
+      "KC_NO",
       "RGB_M_P",
       "RGB_M_B",
       "RGB_M_R",
@@ -126,7 +126,7 @@
       "KC_NO",
       "RGB_RMOD",
       "RGB_MOD",
-      "KC_NO"
+      "BL_BRTG"
     ],
     [
       "BL_TOGG",
